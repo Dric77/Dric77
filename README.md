@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dric77
-- 👀 I’m interested in Web Programing (HTML, CSS, JS, ReactJS, Jquery)
-- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Jquery
+- 👋 Hi, I’m Tornike
+- 👀 I’m interested in Web Programing (HTML, CSS, JS, React.js, Next.js)
+- 🌱 I’m currently learning HTML, CSS, JS, React.js, Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me toko7bardanashvili@gmail.com
 
